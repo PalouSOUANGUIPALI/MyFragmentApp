@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFragmentApp</string>
+
+    <string name="appli_avec_2_actvit_s_et_deux_fragments">Appli avec 2 actvités et 2 fragments</string>
+    <string name="show_happy_detail">Show Happy Detail</string>
+    <string name="show_sad_detail">Show Sad Detail</string>
+    <string name="show_horrible_detail">Show Horrible Detail</string>
+    <string name="i_have_no_details_to_show_you">I have no details to show you</string>
+    <string name="it_s_the_settings_screen">It\'s the settings screen !</string>
+</resources>
